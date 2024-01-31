@@ -1,0 +1,36 @@
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/52GT7WK.png');
+  --background-image-blur: 5px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: url('https://i.imgur.com/IcjoVU8.png');
+  --popout-image-blur: 0px;
+  --popout-image-size: cover;
+  --gradient-direction: 75deg;
+  --tint-colour: 255,255,255;
+  --tint-brightness: 0;
+  --window-padding: 0px;
+  --window-roundness: 0px;
+  --update-notice-1: none;
+  --home-button-position: center;
+  --serverlist-brightness: 10;
+  --left-brightness: 0.8;
+  --middle-brightness: 0.8;
+  --right-brightness: 10;
+  --overlay-brightness: 0.6;
+  --popout-image-position: center right;
+  --overlay-image: url('https://i.imgur.com/IcjoVU8.png');
+  --overlay-image-blur: 5px;
+  --overlay-image-size: 100%;
+  --overlay-image-position: center;
+  --home-button-image: url('https://i.imgur.com/bNziWUw.png');
+  --home-button-size: cover;
+  --scrollbar-colour: rgb(255, 255, 255);
+  --gradient-primary: 99, 99, 99;
+  --gradient-secondary: 99, 99, 99;
+  --link-colour: rgb(59, 66, 128);
+}
